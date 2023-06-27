@@ -7,7 +7,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            
+            //Word Jumble
+
             Console.WriteLine("Welcome to Word Jumble!");
             Console.WriteLine("Unscramble the letters to form a word. Can you solve all 10 puzzles?");
 
